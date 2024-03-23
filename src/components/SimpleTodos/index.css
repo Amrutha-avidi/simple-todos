@@ -1,0 +1,23 @@
+.main-bg {
+  background-color: #ffc2a0;
+  background-size: cover;
+  height: 100vh;
+  padding: 70px;
+}
+
+.card-bg {
+  background-color: #ffffff;
+  background-size: cover;
+  border-radius: 10px;
+  padding: 40px;
+}
+.card-head {
+  font-family: roboto;
+  font-size: 40px;
+  color: #ff8542;
+  text-align: center;
+}
+.todo-container {
+  display: flex;
+  flex-direction: column;
+}

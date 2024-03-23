@@ -1,0 +1,20 @@
+.todoItem-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+.todoItem-title {
+  font-size: 20px;
+  font-family: roboto;
+  color: black;
+}
+.todoItem-button {
+  color: #ff0b37;
+  border-width: 2px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  border-color: #ff0b37;
+  height: 40px;
+  border-style: solid;
+}
